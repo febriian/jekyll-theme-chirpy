@@ -124,7 +124,7 @@ Basically, go to `_config.yml` and customize the variables as needed, some of th
 
 * `url`
 	
-	Set to your website domain and there should be no slash symbol at the tail.
+	Set to your website url and there should be no slash symbol at the tail. Format: `<protocol>://<domain>`.
 
 
 * `avatar`
@@ -242,7 +242,7 @@ For more details and the better reading experience, please check out the [tutori
 
 ## Contributing
 
-The old saying: "Tow heads are better than one. Five heads are better than two." So, welcome to report bugs, improve code quality or submit a new feature. For more information, see [contributing guidelines](.github/CONTRIBUTING.md).
+The old saying: "Two heads are better than one. Five heads are better than two." So, welcome to report bugs, improve code quality or submit a new feature. For more information, see [contributing guidelines](.github/CONTRIBUTING.md).
 
 
 ## Credits
@@ -254,7 +254,7 @@ This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem, [Boot
 
 ## Support
 
-If you enjoy this theme or find it helpful, please consider becoming my sponsor, I'd really appreciate it! Click the button <kbd>:heart:Sponsor</kbd> at the top of the [Home Page](https://github.com/cotes2020/jekyll-theme-chirpy) and choose a link that suits you to donate. This will encourage me and help me maintain this project.
+If you enjoy this theme or find it helpful, please consider becoming my sponsor, I'd really appreciate it! Click the button <kbd>:heart:Sponsor</kbd> at the top of the [Home Page](https://github.com/cotes2020/jekyll-theme-chirpy) and choose a link that suits you to donate; this will encourage and help me better maintain the project.
 
 
 ## License

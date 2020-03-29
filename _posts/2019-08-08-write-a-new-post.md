@@ -64,7 +64,7 @@ category: CATEGORY_NAME     # e.g. Insect
 ---
 layout: tag
 title: TAG_NAME             # e.g. bee
-category: TAG_NAME          # e.g. bee
+tag: TAG_NAME               # e.g. bee
 ---
 ```
 
